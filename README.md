@@ -1,4 +1,4 @@
-mBART Fine-Tuning for Lithuanian Summarization
+## mBART Fine-Tuning for Lithuanian Summarization
 
 This repository contains code for fine-tuning Facebook's mBART model on Lithuanian text summarization tasks using the Hugging Face transformers library.
 Fine-Tuning Workflow
